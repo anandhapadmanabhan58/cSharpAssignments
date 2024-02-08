@@ -1,0 +1,15 @@
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/bin/Debug/net6.0/assignmentCsharp
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/bin/Debug/net6.0/assignmentCsharp.deps.json
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/bin/Debug/net6.0/assignmentCsharp.runtimeconfig.json
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/bin/Debug/net6.0/assignmentCsharp.dll
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/bin/Debug/net6.0/assignmentCsharp.pdb
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/obj/Debug/net6.0/assignmentCsharp.csproj.AssemblyReference.cache
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/obj/Debug/net6.0/assignmentCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/obj/Debug/net6.0/assignmentCsharp.AssemblyInfoInputs.cache
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/obj/Debug/net6.0/assignmentCsharp.AssemblyInfo.cs
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/obj/Debug/net6.0/assignmentCsharp.csproj.CoreCompileInputs.cache
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/obj/Debug/net6.0/assignmentCsharp.dll
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/obj/Debug/net6.0/refint/assignmentCsharp.dll
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/obj/Debug/net6.0/assignmentCsharp.pdb
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/obj/Debug/net6.0/assignmentCsharp.genruntimeconfig.cache
+/Users/anandhapadmanabhan/Desktop/assignment1/assignmentCsharp/obj/Debug/net6.0/ref/assignmentCsharp.dll
