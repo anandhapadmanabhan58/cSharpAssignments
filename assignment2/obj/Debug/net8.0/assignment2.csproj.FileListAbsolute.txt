@@ -1,0 +1,14 @@
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/bin/Debug/net8.0/assignment2
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/bin/Debug/net8.0/assignment2.deps.json
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/bin/Debug/net8.0/assignment2.runtimeconfig.json
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/bin/Debug/net8.0/assignment2.dll
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/bin/Debug/net8.0/assignment2.pdb
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/obj/Debug/net8.0/assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/obj/Debug/net8.0/assignment2.AssemblyInfoInputs.cache
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/obj/Debug/net8.0/assignment2.AssemblyInfo.cs
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/obj/Debug/net8.0/assignment2.csproj.CoreCompileInputs.cache
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/obj/Debug/net8.0/assignment2.dll
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/obj/Debug/net8.0/refint/assignment2.dll
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/obj/Debug/net8.0/assignment2.pdb
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/obj/Debug/net8.0/assignment2.genruntimeconfig.cache
+/Users/anandhapadmanabhan/Documents/cSharp/assignment2/assignment2/obj/Debug/net8.0/ref/assignment2.dll
